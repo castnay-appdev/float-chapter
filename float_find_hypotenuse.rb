@@ -6,3 +6,6 @@
 # 5.3
 
 
+hypotenuse = (2.8 ** 2) + (4.5 ** 2)
+
+p Math.sqrt(hypotenuse)
